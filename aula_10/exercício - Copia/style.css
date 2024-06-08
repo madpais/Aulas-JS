@@ -1,0 +1,40 @@
+* {
+    border: 0;
+    padding: 0;
+}
+
+
+header {
+padding: 5%;
+background-color: black;
+}
+
+
+.s1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+
+.container {
+    margin-top: 1rem;
+    display: flex;
+    gap: 5rem;
+
+}
+
+
+.container_s1 h1{
+    text-align: center;
+    font-size: 4rem;
+}
+
+.container_s1 p{
+    text-align: center;
+    font-size: 3rem;
+}
+
+img {
+    margin-top: 2rem;
+}
