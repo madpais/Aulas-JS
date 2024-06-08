@@ -32,5 +32,9 @@ background-color: black;
 
 .container_s1 p{
     text-align: center;
-    font-size: 1rem;
+    font-size: 3rem;
+}
+
+img {
+    margin-top: 2rem;
 }
