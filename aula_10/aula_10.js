@@ -10,16 +10,13 @@ function changeImage() {
     const img = document.getElementById('myImage');
     const currentScr = img.getAttribute("src");
     
-    if (currentScr === 'scarlett_johansson.jpg') {
-        img.setAttribute("src", "viúva_negra.jpg");
-        img.setAttribute("alt", "viúva_negra");
+    if (currentScr === 'exercício/img_1.webp') {
+        img.setAttribute("src", "exercício/img_2.gif");
+        img.setAttribute("alt", "Lara Croft");
 
     } else {
-        img.setAttribute("src", "scarlett_johansson.jpg");
+        img.setAttribute("src", "exercício/img_1.webp");
         img.setAttribute("alt", "scarlett_johansson");
     }
     
 }
-
-console.log(1+1);
-console.log(currentScr);
