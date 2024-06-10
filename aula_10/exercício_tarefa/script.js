@@ -1,3 +1,7 @@
+// getElementById
+// getAttribute
+// setAttribute
+
 
 function change1() {
     const img = document.getElementById('myImg1');
