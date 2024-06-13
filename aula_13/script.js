@@ -15,11 +15,15 @@ function addTask() {
         ul.appendChild(li);
         li.appendChild(removerBotao);
 
-        input.value = "";
-
-        }
-
-    } else {
-        alert("Por favor insira uma tarefa")
     }
+
+        input.value = "vazio";
+
+       
+    }
+
+     else {
+        alert("Por favor insira uma tarefa")
+    
+}
 }
