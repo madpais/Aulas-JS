@@ -1,0 +1,13 @@
+.square {
+    padding: 20vw;
+    max-width: 2rem;
+    border-radius: 0%;
+    background-color: chocolate;
+}
+
+.circle {
+    padding: 20vw;
+    max-width: 2rem;
+    border-radius: 100%;
+    background-color: chocolate;
+}
